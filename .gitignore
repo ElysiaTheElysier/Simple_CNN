@@ -1,0 +1,16 @@
+# Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# Model and assets can be pushed for this demo, but typically we ignore large files
+# models/
+# assets/
+
+# OS generated files
+.DS_Store
+Thumbs.db
